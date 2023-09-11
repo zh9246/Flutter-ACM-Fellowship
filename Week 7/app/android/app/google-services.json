@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693699135172",
+    "project_id": "flutter-fellowship",
+    "storage_bucket": "flutter-fellowship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693699135172:android:4d5f8d9544c880d2e22b91",
+        "android_client_info": {
+          "package_name": "com.techit.zeetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693699135172-0jpftv9uhsvtaj9ht056o56rt9vap7sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGDXTX4vHzQ5-L7auyhNf4nmEc0ar4Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693699135172-0jpftv9uhsvtaj9ht056o56rt9vap7sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
